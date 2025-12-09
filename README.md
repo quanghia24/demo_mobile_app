@@ -3,6 +3,10 @@
 Demo project hướng dẫn **Unit Testing** với **Jest** và **React Native Testing Library** cho môn **Phát triển Ứng dụng trên Thiết bị Di động (CO3043)**.
 
  :>
+
+=))
+
+ 
 ## Tổng quan
 
 Project này demo các kỹ thuật testing cho React Native app bao gồm:
